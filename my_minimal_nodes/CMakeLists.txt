@@ -36,9 +36,14 @@ cs_add_executable(minimal_subscriber src/minimal_subscriber.cpp)
 cs_add_executable(minimal_simulator src/minimal_simulator.cpp)
 cs_add_executable(minimal_controller src/minimal_controller.cpp)
 cs_add_executable(sine_commander src/sine_commander.cpp)
+
+#I will add another node here
+
 #the following is required, if desire to link a node in this package with a library created in this same package
 # edit the arguments to reference the named node and named library within this package
 # target_link_libraries(example my_lib)
+
+
 
 cs_install()
 cs_export()
