@@ -1,6 +1,6 @@
 # my_minimal_nodes
 
-Your description goes here
+live repo test demo in class
 
 ## Example usage
 
